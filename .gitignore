@@ -1,0 +1,20 @@
+# Binarios y archivos intermedios
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+.vs/
+.vscode/
+
+# Archivos específicos de UE
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Plugins y marketplace
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
